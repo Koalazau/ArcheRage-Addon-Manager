@@ -1,55 +1,50 @@
 # ArcheRage Addon Manager
 
-A modern desktop application for managing ArcheRage game addons with cloud storage integration and developer authentication.
+A desktop app to easily manage your ArcheRage game addons.
 
-## Features
+## ✨ What it does
 
-- **Clean Desktop Interface**: Modern, user-friendly interface for browsing and managing addons
-- **Cloud Storage**: Google Drive integration for addon file storage and synchronization
-- **Discord Authentication**: Secure OAuth2 login system for developers
-- **Automatic Installation**: Seamless addon installation to the correct game directory
-- **Developer Panel**: Interface for authenticated developers to upload and manage addons
-- **Version Management**: Automatic update detection and version tracking
-- **Local Database**: SQLite database for tracking installations and user data
+- **Browse and install addons** from the cloud
+- **Keep your addons updated** automatically
+- **Rate and review addons** from other players
+- **Manage your local addon files** with ease
 
-## Installation
+## 🔧 For developers
 
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
+- **Upload and share** your own addons
+- **Track downloads** and user feedback
+- **Simple dashboard** to manage your creations
 
-## Building for Production
+## 📥 Download & Install
 
-To create a desktop executable:
+1. Go to [Releases](../../releases)
+2. Download the latest `ArcheRage-Addon-Manager.exe`
+3. Run the exe file - no installation required!
 
-1. Install Electron dependencies:
-   ```bash
-   npm install electron electron-builder --save-dev
-   ```
+The app is portable - just download and run it anywhere on your computer.
 
-2. Build the application:
-   ```bash
-   npm run build
-   npm run build-electron
-   ```
+## 🎮 How to use
 
-## Configuration
+1. **Launch the app** - Double-click the exe file
+2. **Browse addons** - See what's available in the cloud
+3. **Install addons** - Click install and they're added to your game automatically
+4. **Stay updated** - The app will tell you when addons have updates available
 
-The application automatically installs addons to: `Documents\ArcheRage\Addon`
+Addons are automatically installed to: `Documents\ArcheRage\Addon`
 
-## Development
+## ⚡ Automatic updates
 
-- Built with React, TypeScript, and Tailwind CSS
-- Uses Vite for fast development and building
-- Electron for desktop application packaging
-- Local SQLite database for data persistence
+- New versions build and release automatically
+- Just download the latest exe when available
+- Check the [Releases](../../releases) page for updates
 
-## License
+## 🛠️ Built with
 
-Private project for ArcheRage community.
+- React + TypeScript for the interface
+- Electron for the desktop app
+- Supabase for cloud storage and user accounts
+- Tailwind CSS for styling
+
+---
+
+Ready to use! Download the .exe file and start managing your ArcheRage addons.
