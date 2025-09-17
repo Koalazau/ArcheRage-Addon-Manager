@@ -5,14 +5,14 @@ A desktop app to easily manage your ArcheRage game addons.
 ## ✨ What it does
 
 - **Browse and install addons** from the cloud
-- **Keep your addons updated** automatically
-- **Rate and review addons** from other players
+- **Keep your addons updated** at the click of a button.
+- **Rate addons** from other players
 - **Manage your local addon files** with ease
 
 ## 🔧 For developers
 
 - **Upload and share** your own addons
-- **Track downloads** and user feedback
+- **Track downloads** and user ratings
 - **Simple dashboard** to manage your creations
 
 ## 📥 Download & Install
@@ -26,9 +26,10 @@ The app is portable - just download and run it anywhere on your computer.
 ## 🎮 How to use
 
 1. **Launch the app** - Double-click the exe file
-2. **Browse addons** - See what's available in the cloud
-3. **Install addons** - Click install and they're added to your game automatically
-4. **Stay updated** - The app will tell you when addons have updates available
+2. **Login with Discord** - Optional
+3. **Browse addons** - See what's available in the cloud
+4. **Install addons** - Click install and they're added to your game automatically
+5. **Stay updated** - The app will tell you when addons have updates available
 
 Addons are automatically installed to: `Documents\ArcheRage\Addon`
 
