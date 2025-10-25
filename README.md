@@ -4,7 +4,7 @@ A desktop app to easily manage your ArcheRage game addons.
 
 ## ✨ What it does
 
-- **Browse and install addons** from the cloud
+- **Browse and install addons**
 - **Keep your addons updated** at the click of a button.
 - **Rate addons** from other players
 - **Manage your local addon files** with ease
@@ -27,7 +27,7 @@ The app is portable - just download and run it anywhere on your computer.
 
 1. **Launch the app** - Double-click the exe file
 2. **Login with Discord** - Optional
-3. **Browse addons** - See what's available in the cloud
+3. **Browse addons** - See what's available
 4. **Install addons** - Click install and they're added to your game automatically
 5. **Stay updated** - The app will tell you when addons have updates available
 
@@ -38,13 +38,6 @@ Addons are automatically installed to: `Documents\ArcheRage\Addon`
 - New versions build and release automatically
 - Just download the latest exe when available
 - Check the [Releases](../../releases) page for updates
-
-## 🛠️ Built with
-
-- React + TypeScript for the interface
-- Electron for the desktop app
-- Supabase for cloud storage and user accounts
-- Tailwind CSS for styling
 
 ---
 
